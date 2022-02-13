@@ -1,0 +1,15 @@
+.main-navbar-container {
+    background: rgba(0, 0, 0, 0.452);
+    color: white;
+    position: absolute;
+    top: 5%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 1;
+    width: 80%;
+    border-radius: 50px;
+}
+
+.navbar-spacer {
+    flex: 1 1 auto;
+}
